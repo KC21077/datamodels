@@ -5,9 +5,9 @@
 **Open-Source or Commercial**:
 The RDM is commercial.
 
-**Data Model**: Networked Data Model.
+**Data Model**: RDM uses Networked Data Model.
 
-**Hosting Model**: Embedded
+**Hosting Model**: The hosting model is embedded.
 **How Java and Python Access It**:
 Java could access data in RDM through JDBC.
 

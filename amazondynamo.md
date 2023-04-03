@@ -4,9 +4,9 @@
 **Open-Source or Commercial**:
 The Amazon Dynamo DB is commercial.
 
-**Data Model**:  NoSQL Data Model
+**Data Model**:  The Amazon Dynamo is using NoSQL Data Model.
 
-**Hosting Model**: Client/Server, Local, Cloud
+**Hosting Model**: The hosting models are Client/Server, Local, and Cloud.
 
 **How Java and Python Access It**:
 Java could access data in Amazon Dynamo DB through installation of AWS SDK, which proivdes a Java API.

@@ -5,9 +5,9 @@
 **Open-Source or Commercial**:
 The Microsoft Access is commerical.
 
-**Data Model**:  Relational Data Model
+**Data Model**:  Microsoft Acess is relational data model.
 
-**Hosting Model**: Client / Server, Local, Cloud
+**Hosting Model**: The hosting models are Client / Server, Local, and Cloud. 
 
 **How Java and Python Access It**:
 Java could access data in Microsoft Access through JDBC driver.

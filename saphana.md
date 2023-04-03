@@ -5,9 +5,9 @@
 **Open-Source or Commercial**:
 The SAP HANA is open-source.
 
-**Data Model**:  Relational Data Model
+**Data Model**:  SAP HANA uses Relational Data Model.
 
-**Hosting Model**: Client / Server, Embedded, Local, Cloud
+**Hosting Model**: The hosting models are Client / Server, Embedded, Local, and Cloud.
 
 **How Java and Python Access It**:
 Java could access data in SAP HANA through JDBC, and requires the installation of the Java Development Kit.

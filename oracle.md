@@ -5,9 +5,9 @@
 **Open-Source or Commercial**:
  Oracle is commercial.
 
-**Data Model**:  Network Data Model
+**Data Model**:  The data model for Oracle DB is Network Data Model.
 
-**Hosting Model**: Client/Server, Local, Embedded
+**Hosting Model**: The hosting models are Client/Server, Local, and Embedded.
 
 **How Java and Python Access It**:
 Java access the Oracle Database through the JDBC driver library.
